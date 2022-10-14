@@ -1,0 +1,396 @@
+Uri: http://semsabaharat.com/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/sayfa/235803/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235803\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235804/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235804\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235805/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235805\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235806/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235806\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235807/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235807\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235808/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235808\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235809/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235809\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235810/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235810\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235811/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235811\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235812/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235812\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235813/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235813\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235814/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235814\k\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235815/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235815\k\index.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:500
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/xml/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\xml\index.htm.xml
+Content Type: text/xml
+
+Uri: http://semsabaharat.com/css/?h=1231
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/css/sevgane3.css
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\sevgane3.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/tr/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr.html
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/vizyon/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\vizyon\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/misyon/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\misyon\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/hakkimizda/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\hakkimizda\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/belgeler/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\belgeler\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/urunler/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\urunler\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/insan_kaynaklari/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\insan_kaynaklari\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/referanslar/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\referanslar\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/tr/iletisim/
+File Name: C:\Downloaded Web Sites\semsabaharat.com\tr\iletisim\index.htm
+Content Type: text/html
+
+Uri: http://semsabaharat.com/modul/full/source/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/modul/full/source/helpers/jquery.fancybox-thumbs.css
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\helpers\jquery.fancybox-thumbs.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/sayfa/235803/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235803\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235804/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235804\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235805/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235805\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235806/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235806\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235807/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235807\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235808/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235808\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235809/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235809\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235810/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235810\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235811/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235811\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235812/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235812\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235813/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235813\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235814/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235814\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/sayfa/235815/index.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235815\index.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/js/tam/jquery-2.2.0.min.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\js\tam\jquery-2.2.0.min.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/hosting/1231/mz/13072015-102207.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\hosting\1231\mz\13072015-102207.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul_img/4229/311189.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4229\311189.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul_img/4229/225377.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4229\225377.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul_img/4229/570675.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4229\570675.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul_img/4229/623717.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4229\623717.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul_img/4229/799787.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4229\799787.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/slider/effec/wowslider.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\effec\wowslider.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/modul/slider/effec/blur.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\effec\blur.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/modul/full/source/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/modul/full/source/helpers/jquery.fancybox-thumbs.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\helpers\jquery.fancybox-thumbs.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/js/index.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\js\index.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/js/sevgane.js
+File Name: C:\Downloaded Web Sites\semsabaharat.com\js\sevgane.js
+Content Type: application/javascript
+
+Uri: http://semsabaharat.com/modul/menu/300/bg.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\menu\300\bg.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/slider/4000/bullet.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\4000\bullet.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/slider/4000/arrows.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\4000\arrows.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/slider/4000/pause.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\4000\pause.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/slider/4000/play.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\4000\play.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/slider/4000/triangle.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\slider\4000\triangle.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul_img/4229/tema/671476.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4229\tema\671476.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/image/logo.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\image\logo.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/image/svg/1/214.asp?r=fff
+File Name: C:\Downloaded Web Sites\semsabaharat.com\image\svg\1\214.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://semsabaharat.com/image/svg/1/215.asp?r=fff
+File Name: C:\Downloaded Web Sites\semsabaharat.com\image\svg\1\215.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235780
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-1.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235781
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-2.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235782
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-3.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235785
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-4.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/modul_img/4233/365514.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4233\365514.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4233/526153.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4233\526153.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4233/53623.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4233\53623.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235802
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-5.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/modul/modul_3/601/1.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\modul_3\601\1.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235783
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-6.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235784
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-7.css
+Content Type: text/css
+
+Uri: http://semsabaharat.com/modul_img/4232/110927.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\110927.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/199296.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\199296.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/246757.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\246757.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/327439.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\327439.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/344121.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\344121.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/390440.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\390440.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/534968.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\534968.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/629286.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\629286.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/728904.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\728904.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul_img/4232/746119.JPG
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul_img\4232\746119.JPG
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/css/?h=1231&sayfa=235786
+File Name: C:\Downloaded Web Sites\semsabaharat.com\css\index.htm-8.css
+Content Type: text/css
+
+Uri: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyABJwcRq-oUKsiEKFXUv4mCfr5Y7HwR2W8
+File Name: C:\Downloaded Web Sites\semsabaharat.com\maps\api\js
+Content Type: text/javascript
+
+Uri: http://semsabaharat.com/image/svg/iletisim/3.asp?r=fff
+File Name: C:\Downloaded Web Sites\semsabaharat.com\image\svg\iletisim\3.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://semsabaharat.com/image/svg/iletisim/4.asp?r=fff
+File Name: C:\Downloaded Web Sites\semsabaharat.com\image\svg\iletisim\4.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://semsabaharat.com/image/svg/iletisim/5.asp?r=fff
+File Name: C:\Downloaded Web Sites\semsabaharat.com\image\svg\iletisim\5.asp.svg
+Content Type: image/svg+xml
+
+Uri: http://semsabaharat.com/modul/full/source/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/modul/full/source/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://semsabaharat.com/modul/full/source/blank.gif
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\blank.gif
+Content Type: image/gif
+
+Uri: http://semsabaharat.com/modul/full/source/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\full\source\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/sayfa/235782/bg/16072016034858.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235782\bg\16072016034858.jpg
+Content Type: image/jpeg
+
+Uri: http://semsabaharat.com/modul/sayfa/2/img/bg.png
+File Name: C:\Downloaded Web Sites\semsabaharat.com\modul\sayfa\2\img\bg.png
+Content Type: image/png
+
+Uri: http://semsabaharat.com/sayfa/235784/bg/16072016034858.jpg
+File Name: C:\Downloaded Web Sites\semsabaharat.com\sayfa\235784\bg\16072016034858.jpg
+Content Type: image/jpeg
+

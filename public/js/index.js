@@ -5,8 +5,6 @@ window.onload = function() {
         document.getElementById("xtarget").submit();
     }
 };
-
-
 <!--menu-->
 
 (function($) {

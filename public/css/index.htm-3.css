@@ -6,7 +6,6 @@
 	width   : 270px;
 }
 
-
 .menu_tema {
 	float : left;
 	width : 100%;
@@ -26,7 +25,6 @@
 	background-repeat  : no-repeat;
 	background-image   : url(../modul/menu/300/bg.png);
 }
-
 
 #cssmenu {
 	margin-top   : 15px;
@@ -91,7 +89,6 @@
 	-o-transition     : all 0.25s ease-out;
 	transition        : all 0.25s ease-out;
 }
-
 
 #cssmenu>ul>li {
 	float: left;
@@ -343,7 +340,6 @@
 	color: #000000
 }
 
-
 #wowslider-container1 {
 	display           : table;
 	zoom              : 1;
@@ -354,8 +350,6 @@
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing   : content-box;
 	box-sizing        : content-box;
-
-
 }
 
 #wowslider-container1 .ws_images ul {
@@ -415,7 +409,6 @@
 	margin   : 0;
 }
 
-
 #wowslider-container1 .ws_images iframe {
 	position: absolute;
 	z-index : -1;
@@ -474,7 +467,6 @@
 	background: #A6A5A9;
 }
 
-
 #wowslider-container1.ws_gestures {
 	cursor: -webkit-grab;
 	cursor: -moz-grab;
@@ -494,7 +486,6 @@
 #wowslider-container1.ws_video_playing .ws_prev {
 	display: none;
 }
-
 
 /* youtube/vimeo buttons */
 #wowslider-container1 .ws_video_btn {
@@ -869,36 +860,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
 	background-position: center top;
 	background-repeat  : no-repeat;
@@ -916,7 +877,6 @@ body {
 	float: left;
 	top  : 0px;
 }
-
 
 .orta {
 	margin-top: 210px;
@@ -1001,8 +961,6 @@ body {
 	color          : inherit;
 }
 
-
-
 .paylas {
 	float: left;
 }
@@ -1022,7 +980,6 @@ body {
 	height: 30px;
 	float : left;
 }
-
 
 .ilan_list_kat {
 	width        : 230px;
@@ -1058,7 +1015,6 @@ body {
 	box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 	background-color: #FFF;
 }
-
 
 .ilan_list_kat_2 img {
 	max-height: 130px;
@@ -1171,7 +1127,6 @@ body {
 	background-color: #FFF;
 }
 
-
 .ilan_list_2 img {
 	max-height: 130px;
 	max-width : 210px;
@@ -1247,9 +1202,6 @@ body {
 	box-shadow    : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 	color         : #1;
 }
-
-
-
 
 * {
 	margin : 0;
@@ -1389,7 +1341,6 @@ a:active {
 	display: none;
 }
 
-
 .modul_alt {
 	width: 100%;
 	float: left;
@@ -1461,7 +1412,6 @@ a:active {
 	width: device-width;
 }
 
-
 @media screen and (min-width:1020px) {
 	.ilan_list {
 		width        : 230px;
@@ -1497,7 +1447,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_2 img {
 		max-height: 130px;
@@ -1610,7 +1559,6 @@ a:active {
 		background-color: #FFF;
 	}
 
-
 	.ilan_list_kat_2 img {
 		max-height: 130px;
 		max-width : 210px;
@@ -1686,9 +1634,6 @@ a:active {
 		box-shadow    : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		color         : #1;
 	}
-
-
-
 
 	.orta {
 		width: 1000px;
@@ -1803,7 +1748,6 @@ a:active {
 	}
 }
 
-
 @media screen and (max-width:1020px) {
 	.orta {
 		margin-top: 0px;
@@ -1824,8 +1768,6 @@ a:active {
 		background-color: #fff;
 	}
 
-
-
 	.menu_logo {
 		width     : auto;
 		margin-top: 10px;
@@ -1833,8 +1775,6 @@ a:active {
 		left      : 0px;
 		position  : absolute;
 	}
-
-
 
 	.yan_menu {
 		float              : left;
@@ -1869,10 +1809,6 @@ a:active {
 		z-index            : 100;
 	}
 
-
-
-
-
 	.yan_menu_1 {
 		height          : 100%;
 		width           : 0;
@@ -1892,7 +1828,6 @@ a:active {
 		float: left;
 	}
 
-
 	#cssmenu-mix {
 		position     : absolute;
 		top          : 0px;
@@ -1900,8 +1835,6 @@ a:active {
 		min-height   : 30px;
 		border-radius: 5px;
 		background   : #FFFFFF;
-
-
 		width        : 100%;
 		border-radius: 0px;
 	}
@@ -1914,8 +1847,6 @@ a:active {
 		border-radius: 5px;
 		min-width    : 35px;
 		background   : #FFFFFF;
-
-
 	}
 
 	#cssmenu ul {
@@ -1934,8 +1865,6 @@ a:active {
 		width     : 100%;
 		height    : auto;
 		border-top: 1px solid rgba(120, 120, 120, 0.15);
-
-
 	}
 
 	#cssmenu ul li a,
@@ -2061,7 +1990,6 @@ a:active {
 		visibility: hidden;
 	}
 
-
 	.uye_menu_giris_1 {
 		top        : 0px;
 		right      : 0px;
@@ -2161,7 +2089,6 @@ a:active {
 	}
 }
 
-
 @media screen and (max-width:760px) {
 
 	.uye_menu_giris_1 {
@@ -2243,9 +2170,6 @@ a:active {
 	}
 }
 
-
-
-
 @media screen and (max-width:400px) {
 	body {
 		background-size: 475px;
@@ -2276,7 +2200,6 @@ a:active {
 	.urun_orta {
 		width: 250px;
 	}
-
 
 	.ilan_list_kat {
 		width        : 230px;
@@ -2312,7 +2235,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_kat_2 img {
 		max-height: 130px;
@@ -2424,7 +2346,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_2 img {
 		max-height: 130px;
@@ -2580,7 +2501,6 @@ a:active {
 		color: #000000
 	}
 
-
 	#wowslider-container1 .ws_images ul {
 		height: 129px;
 		width : 140px;
@@ -2638,8 +2558,6 @@ a:active {
 	}
 }
 
-
-
 @media screen and (min-width:400px) and (max-width:551px) {
 	body {
 		background-size: 633px;
@@ -2670,7 +2588,6 @@ a:active {
 	.urun_orta {
 		width: 333px;
 	}
-
 
 	.ilan_list_kat {
 		width        : 307px;
@@ -2706,7 +2623,6 @@ a:active {
 		box-shadow      : 0px 5px 11px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_kat_2 img {
 		max-height: 173px;
@@ -2818,7 +2734,6 @@ a:active {
 		box-shadow      : 0px 5px 11px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_2 img {
 		max-height: 173px;
@@ -2980,8 +2895,6 @@ a:active {
 		display: none
 	}
 
-
-
 	#wowslider-container1 .ws_images ul {
 		height: 172px;
 		width : 187px;
@@ -3039,7 +2952,6 @@ a:active {
 	}
 }
 
-
 @media screen and (min-width:551px) and (max-width:760px) {
 	body {
 		background-size: 950px;
@@ -3070,7 +2982,6 @@ a:active {
 	.urun_orta {
 		width: 500px;
 	}
-
 
 	.ilan_list_kat {
 		width        : 230px;
@@ -3106,7 +3017,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_kat_2 img {
 		max-height: 130px;
@@ -3218,7 +3128,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_2 img {
 		max-height: 130px;
@@ -3377,8 +3286,6 @@ a:active {
 	#wowslider-container1 .ws_fullscreen {
 		display: block;
 	}
-
-
 
 	#wowslider-container1 .ws_images ul {
 		height: 258px;
@@ -3453,7 +3360,6 @@ a:active {
 	}
 }
 
-
 @media screen and (min-width:761px) and (max-width:1020px) {
 	body {
 		background-size: 1425px;
@@ -3484,7 +3390,6 @@ a:active {
 	.urun_orta {
 		width: 750px;
 	}
-
 
 	.ilan_list_kat {
 		width        : 230px;
@@ -3520,7 +3425,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_kat_2 img {
 		max-height: 130px;
@@ -3632,7 +3536,6 @@ a:active {
 		box-shadow      : 0px 4px 8px 0px rgba(0, 0, 0, 0.4);
 		background-color: #FFF;
 	}
-
 
 	.ilan_list_2 img {
 		max-height: 130px;
@@ -3792,8 +3695,6 @@ a:active {
 		display: block;
 	}
 
-
-
 	#wowslider-container1 .ws_images ul {
 		height: 386px;
 		width : 421px;
@@ -3850,6 +3751,5 @@ a:active {
 		height: 375px;
 	}
 }
-
 
 .son {}

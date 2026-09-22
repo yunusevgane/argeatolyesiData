@@ -1,0 +1,947 @@
+{
+    "category": [
+        {
+            "name": "Merkür Belgeseli",
+            "category": "",
+            "image": "merkur/index.jpeg",
+            "description": "Güneş'e en yakın ve en küçük gezegen. Yüzeyi kraterlerle kaplı, sıcaklık farkları çok yüksek, manyetik alana sahip gizemli bir dünya.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "merkur/bolum1.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Güneş sisteminin en küçük ve en içteki gezegeni. Kraterli yüzeyi, aşırı sıcaklık değişimleri ve beklenmedik manyetik alanıyla dikkat çeker."
+                },
+                {
+                    "name": "Bölüm 2: Yüzey Yapısı",
+                    "path": "merkur/bolum2.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Sayısız krater, lav ovaları ve tektonik faaliyetlerle şekillenmiş yüzey. Caloris Havzası gibi dev çarpma kraterleri bulunur."
+                },
+                {
+                    "name": "Bölüm 3: Atmosfer ve İklim",
+                    "path": "merkur/bolum3.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "İnce atmosfer ve aşırı sıcaklık farkları. Gündüz 430°C'ye ulaşan, gece -180°C'ye düşen zorlu iklim koşulları hakimdir."
+                },
+                {
+                    "name": "Bölüm 4: Manyetik Alan",
+                    "path": "merkur/bolum4.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Boyutuna göre güçlü manyetik alan. Sıvı çekirdek ve hızlı dönüş, beklenmedik manyetik koruma kalkanı oluşturur."
+                },
+                {
+                    "name": "Bölüm 5: İç Yapı",
+                    "path": "merkur/bolum5.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Büyük demir çekirdek ve ince manto yapısı. Gezegenin yoğunluğunu ve manyetik alanını belirleyen katmanlı iç yapı."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "merkur/bolum6.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Antik çağlardan modern uzay araçlarına uzanan keşif serüveni. Mariner 10 ve MESSENGER'ın önemli keşifleri."
+                },
+                {
+                    "name": "Bölüm 7: Yörünge Özellikleri",
+                    "path": "merkur/bolum7.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Güneş'e en yakın ve en hızlı dönen gezegen. 88 günlük yörünge periyodu ve 3:2 dönme-yörünge rezonansı."
+                },
+                {
+                    "name": "Bölüm 8: Kutup Bölgeleri",
+                    "path": "merkur/bolum8.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Derin kraterlerde sürekli gölgede kalan buz depolarının varlığı. Kutup bölgelerindeki gizemli su buzu birikintileri."
+                },
+                {
+                    "name": "Bölüm 9: Güneş Etkileşimi",
+                    "path": "merkur/bolum9.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "Güneş'e yakınlığın etkileri ve güçlü güneş rüzgarlarına maruz kalma. Yüzeyde oluşan özel mineraller ve yapılar."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Keşifler",
+                    "path": "merkur/bolum10.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": "BepiColombo misyonu ve gelecek araştırma planları. Merkür'ün gizemlerini çözmeye yönelik yeni bilimsel hedefler."
+                }
+            ]
+        },
+        {
+            "name": "Mars Belgeseli",
+            "category": "",
+            "image": "mars/index.jpeg",
+            "description": "Kızıl Gezegen olarak bilinen dördüncü gezegen. Antik nehir yatakları, dev volkanlar ve kutup buzullarıyla gelecekte yaşam potansiyeli taşıyor.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "mars/bolum1.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Güneş sisteminin dördüncü gezegeni. Kızıl rengi, kutup buzulları ve antik nehir yataklarıyla Mars, gelecekteki insan keşifleri için umut vadediyor."
+                },
+                {
+                    "name": "Bölüm 2: Yüzey Özellikleri",
+                    "path": "mars/bolum2.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Olympus Mons, Valles Marineris ve krater alanları. Dev volkanlar, derin kanyonlar ve antik su izleriyle şekillenen benzersiz yüzey."
+                },
+                {
+                    "name": "Bölüm 3: Su ve Yaşam İzleri",
+                    "path": "mars/bolum3.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Geçmişteki su varlığının kanıtları ve olası yaşam izleri. Kurumuş nehir yatakları, göl havzaları ve mineral birikintileri."
+                },
+                {
+                    "name": "Bölüm 4: Atmosfer ve İklim",
+                    "path": "mars/bolum4.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "İnce karbondioksit atmosferi ve değişken hava koşulları. Mevsimsel değişimler, toz fırtınaları ve kutup bölgelerindeki dinamikler."
+                },
+                {
+                    "name": "Bölüm 5: Kutup Bölgeleri",
+                    "path": "mars/bolum5.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Su buzu ve karbondioksit buzundan oluşan kutup başlıkları. Mevsimsel değişimlerle büyüyen ve küçülen dinamik buz yapıları."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "mars/bolum6.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "İlk teleskopik gözlemlerden modern uzay araçlarına uzanan serüven. Viking'den Perseverance'a uzanan başarılı Mars misyonları."
+                },
+                {
+                    "name": "Bölüm 7: Jeolojik Yapı",
+                    "path": "mars/bolum7.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Mars'ın iç yapısı ve yüzey jeolojisi. InSight'ın deprem ölçümleri ve gezegenin evrimine dair yeni bulgular."
+                },
+                {
+                    "name": "Bölüm 8: Mars'ta Yaşam",
+                    "path": "mars/bolum8.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Gelecekteki insan kolonileri ve yaşam potansiyeli. Kaynakların kullanımı, habitat tasarımları ve karşılaşılabilecek zorluklar."
+                },
+                {
+                    "name": "Bölüm 9: Uydular",
+                    "path": "mars/bolum9.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Phobos ve Deimos: Mars'ın iki küçük uydusu. Asteroit kökenli olduğu düşünülen bu uydular ve gelecekteki keşif planları."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Misyonlar",
+                    "path": "mars/bolum10.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Mars'ın keşfine yönelik gelecek planları. Örnek getirme misyonları ve insanlı seferlere hazırlık çalışmaları."
+                }
+            ]
+        },
+        {
+            "name": "Jüpiter Belgeseli",
+            "category": "",
+            "image": "jupiter/index.jpeg",
+            "description": "Güneş sisteminin en büyük gezegeni. Büyük Kırmızı Leke ve renkli bantlarıyla tanınan, güçlü manyetik alana sahip gaz devi.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "jupiter/bolum1.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Güneş sisteminin devasa gaz devi. Tüm gezegenlerin toplam kütlesinin iki katından fazla kütlesiyle sistem içindeki dominant gezegen."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer Yapısı",
+                    "path": "jupiter/bolum2.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Hidrojen ve helyumdan oluşan derin atmosfer. Renkli bantlar ve fırtına sistemleriyle karakterize olan dinamik hava olayları."
+                },
+                {
+                    "name": "Bölüm 3: Büyük Kırmızı Leke",
+                    "path": "jupiter/bolum3.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "350 yıldan uzun süredir gözlemlenen dev fırtına sistemi. Dünya'dan üç kat büyük olan bu atmosferik girdap hala gizemini koruyor."
+                },
+                {
+                    "name": "Bölüm 4: Manyetik Alan",
+                    "path": "jupiter/bolum4.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Güneş sisteminin en güçlü manyetik alanı. Metalik hidrojen tabakası ve hızlı dönüşün oluşturduğu devasa manyetosfer."
+                },
+                {
+                    "name": "Bölüm 5: Galileo Uyduları",
+                    "path": "jupiter/bolum5.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Io, Europa, Ganymede ve Callisto: Jüpiter'in en büyük dört uydusu. Her biri kendine özgü özelliklere sahip mini dünyalar."
+                },
+                {
+                    "name": "Bölüm 6: Halka Sistemi",
+                    "path": "jupiter/bolum6.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "İnce ve karanlık halka yapısı. Mikrometeorit çarpmaları ve uydu etkileşimleriyle şekillenen hassas halka sistemi."
+                },
+                {
+                    "name": "Bölüm 7: İç Yapı",
+                    "path": "jupiter/bolum7.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Küçük kaya-metal çekirdek ve metalik hidrojen katmanı. Yüksek basınç altında sıvıdan metalik forma geçen egzotik hidrojen yapısı."
+                },
+                {
+                    "name": "Bölüm 8: Keşif Tarihi",
+                    "path": "jupiter/bolum8.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Pioneer'dan Juno'ya uzanan uzay araştırmaları. Galileo'nun teleskopik gözlemlerinden modern uzay misyonlarına uzanan serüven."
+                },
+                {
+                    "name": "Bölüm 9: Radyasyon Kuşakları",
+                    "path": "jupiter/bolum9.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Güçlü manyetik alanın yarattığı yoğun radyasyon bölgeleri. Uzay araçları için zorlu koşullar oluşturan radyasyon kuşakları."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Misyonlar",
+                    "path": "jupiter/bolum10.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Europa Clipper ve JUICE misyonları. Jüpiter sisteminin gizemlerini çözmeye yönelik yeni nesil uzay araştırmaları."
+                }
+            ]
+        },
+        {
+            "name": "Satürn Belgeseli",
+            "category": "",
+            "image": "saturn/index.jpeg",
+            "description": "Göz alıcı halka sistemiyle ünlü altıncı gezegen. Titan gibi büyük uyduları ve karmaşık atmosfer yapısıyla dikkat çeken gaz devi.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "saturn/bolum1.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Güneş sisteminin ikinci büyük gezegeni. Muhteşem halka sistemi, büyük uyduları ve düşük yoğunluğuyla dikkat çeken gaz devi."
+                },
+                {
+                    "name": "Bölüm 2: Halka Sistemi",
+                    "path": "saturn/bolum2.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Güneş sisteminin en geniş ve belirgin halkaları. Buz ve kaya parçacıklarından oluşan, yüz binlerce kilometre genişliğinde hassas yapı."
+                },
+                {
+                    "name": "Bölüm 3: Atmosfer Dinamikleri",
+                    "path": "saturn/bolum3.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Güçlü rüzgarlar ve karmaşık hava sistemleri. Kuzey kutbundaki altıgen fırtına ve saatte 1500 km'yi aşan ekvator rüzgarları."
+                },
+                {
+                    "name": "Bölüm 4: Uydu Sistemi",
+                    "path": "saturn/bolum4.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "83'ten fazla doğal uydu. Titan, Enceladus, Mimas gibi her biri kendine özgü özelliklere sahip farklı büyüklükte uydular."
+                },
+                {
+                    "name": "Bölüm 5: Titan",
+                    "path": "saturn/bolum5.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Kalın atmosferi ve sıvı metan döngüsüyle dikkat çeken en büyük uydu. Yüzeyinde göller, nehirler ve organik bileşikler bulunur."
+                },
+                {
+                    "name": "Bölüm 6: Enceladus",
+                    "path": "saturn/bolum6.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Güney kutbundan fışkıran su buharı püskürtmeleriyle tanınan buz dünyası. Yüzeyin altında sıvı su okyanusu barındırır."
+                },
+                {
+                    "name": "Bölüm 7: Manyetik Alan",
+                    "path": "saturn/bolum7.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Güneş sisteminin en güçlü ikinci manyetik alanı. Halka sistemi ve uydularla etkileşim halinde olan karmaşık manyetosfer yapısı."
+                },
+                {
+                    "name": "Bölüm 8: İç Yapı",
+                    "path": "saturn/bolum8.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Kayalık çekirdek, metalik hidrojen katmanı ve gaz atmosferinden oluşan katmanlı yapı. Düşük yoğunluklu dev gezegen."
+                },
+                {
+                    "name": "Bölüm 9: Keşif Tarihi",
+                    "path": "saturn/bolum9.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Antik çağlardan Cassini'ye uzanan keşif serüveni. Galileo'nun ilk gözlemlerinden modern uzay araçlarına uzanan araştırmalar."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "saturn/bolum10.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Titan ve Enceladus'a odaklanan gelecek misyonlar. Yaşam potansiyeli taşıyan uydulara yönelik yeni nesil araştırma planları."
+                }
+            ]
+        },
+        {
+            "name": "Uranüs Belgeseli",
+            "category": "",
+            "image": "uranus/index.jpeg",
+            "description": "Yan yatık eksen eğikliğiyle dikkat çeken yedinci gezegen. Mavi-yeşil rengi ve soğuk atmosferiyle tanınan buz devi.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "uranus/bolum1.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Modern çağda keşfedilen ilk gezegen. 98 derecelik eksen eğikliği ve mavi-yeşil rengiyle dikkat çeken, 27 uyduya sahip buz devi."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "uranus/bolum2.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Hidrojen, helyum ve metandan oluşan katmanlı atmosfer. Silik bantlar, güçlü rüzgarlar ve mevsimsel değişimlerle şekillenen dinamik yapı."
+                },
+                {
+                    "name": "Bölüm 3: Halka Sistemi",
+                    "path": "uranus/bolum3.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "On üç belirgin halkadan oluşan ince ve soluk sistem. Su buzu ve organik bileşiklerden oluşan, shepherd uydularla korunan yapı."
+                },
+                {
+                    "name": "Bölüm 4: Uydu Sistemi",
+                    "path": "uranus/bolum4.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Beş büyük ve çok sayıda küçük uydudan oluşan sistem. Titania, Oberon, Umbriel, Ariel ve Miranda gibi benzersiz özelliklere sahip uydular."
+                },
+                {
+                    "name": "Bölüm 5: Manyetik Alan",
+                    "path": "uranus/bolum5.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Dönme eksenine göre 60 derece eğik, merkezi kaymış benzersiz manyetik alan. Karmaşık aurora olayları ve radyasyon kuşakları."
+                },
+                {
+                    "name": "Bölüm 6: İç Yapı",
+                    "path": "uranus/bolum6.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Kayalık çekirdek, buz katmanları ve gaz atmosferinden oluşan yapı. Düşük iç ısı üretimi ve yüksek basınç altında egzotik buz formları."
+                },
+                {
+                    "name": "Bölüm 7: Keşif Tarihi",
+                    "path": "uranus/bolum7.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "1781'de William Herschel tarafından keşfedilen ilk teleskopik gezegen. Voyager 2'nin 1986'daki ziyareti ve modern gözlemlerle süren araştırmalar."
+                },
+                {
+                    "name": "Bölüm 8: Mevsimsel Değişimler",
+                    "path": "uranus/bolum8.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "98 derecelik eksen eğikliğinin yarattığı aşırı mevsimler. Kırk yıl süren gündüz ve geceler, dramatik atmosferik değişimler."
+                },
+                {
+                    "name": "Bölüm 9: Bilimsel Önemi",
+                    "path": "uranus/bolum9.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Buz devlerinin anlaşılması için kritik öneme sahip gezegen. Benzersiz özellikleriyle gezegen oluşum teorilerine ışık tutuyor."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "uranus/bolum10.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Yeni uzay misyonları ve teleskop gözlemleriyle planlanan araştırmalar. Atmosfer, manyetik alan ve uydu sistemine yönelik detaylı incelemeler."
+                }
+            ]
+        },
+        {
+            "name": "Neptün Belgeseli",
+            "category": "",
+            "image": "neptun/index.jpeg",
+            "description": "Güneş sisteminin en uzak gezegeni. Güçlü rüzgarları ve dinamik atmosferiyle tanınan, derin mavi renkli buz devi.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "neptun/bolum1.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Güneş'ten sekizinci ve son gezegen. Matematiksel hesaplamalarla keşfedilen, mavi rengi ve güçlü fırtınalarıyla dikkat çeken buz devi."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer Dinamikleri",
+                    "path": "neptun/bolum2.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Güneş sisteminin en güçlü rüzgarları ve dev fırtınaları. Büyük Koyu Benek ve saatte 1600 km'yi aşan süper hızlı rüzgarlar."
+                },
+                {
+                    "name": "Bölüm 3: Manyetik Alan ve İç Yapı",
+                    "path": "neptun/bolum3.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Dünya'nınkinden 27 kat güçlü, 47 derece eğik manyetik alan. Kayalık çekirdek ve yoğun sıvı tabakadan oluşan iç yapı."
+                },
+                {
+                    "name": "Bölüm 4: Halka Sistemi",
+                    "path": "neptun/bolum4.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Beş ana halkadan oluşan zayıf ve karanlık sistem. Buz parçacıkları ve kozmik tozlardan oluşan, çoban uydularla korunan yapı."
+                },
+                {
+                    "name": "Bölüm 5: Uydular",
+                    "path": "neptun/bolum5.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "On dört uydulu karmaşık sistem. Geriye dönen Triton, eliptik yörüngeli Nereid ve diğer benzersiz özelliklere sahip uydular."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "neptun/bolum6.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Matematiksel hesaplamalarla öngörülen ilk gezegen. Le Verrier ve Adams'ın tahminleri, Galle'nin 1846'daki tarihi gözlemi."
+                },
+                {
+                    "name": "Bölüm 7: Fiziksel Özellikler",
+                    "path": "neptun/bolum7.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Dünya'dan 4 kat büyük, 17 kat ağır buz devi. 16 saatlik gün, -240°C yüzey sıcaklığı ve yüksek iç ısı üretimi."
+                },
+                {
+                    "name": "Bölüm 8: Yörünge ve Hareket",
+                    "path": "neptun/bolum8.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "165 Dünya yılı süren yörünge turu. 4.5 milyar km uzaklık, düzenli yörünge ve Plüton'la 3:2 rezonans ilişkisi."
+                },
+                {
+                    "name": "Bölüm 9: Bilimsel Önemi",
+                    "path": "neptun/bolum9.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Buz devlerinin yapısını ve evrimini anlamamız için önemli laboratuvar. Atmosfer dinamikleri ve manyetik alan teorilerine katkı."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "neptun/bolum10.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Atmosfer, manyetik alan ve uydu sistemine yönelik yeni misyonlar. Triton'a iniş ve sistemin detaylı incelenmesi planları."
+                }
+            ]
+        },
+        {
+            "name": "Venüs Belgeseli",
+            "category": "",
+            "image": "venus/index.jpeg",
+            "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "venus/bolum1.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Güneş sisteminin ikinci gezegeni. Yoğun atmosferi, yüksek yüzey sıcaklığı ve ters yönde dönüşüyle dikkat çeken gizemli bir dünya."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "venus/bolum2.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Karbondioksit bakımından zengin kalın atmosfer. 460°C'yi bulan yüzey sıcaklığı ve sülfürik asit bulutlarıyla kaplı zorlu ortam."
+                },
+                {
+                    "name": "Bölüm 3: Yüzey Özellikleri",
+                    "path": "venus/bolum3.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Volkanik ovalar, tektonik yapılar ve dağ sıraları. Radar görüntüleriyle keşfedilen yüzey şekilleri ve lav akıntıları."
+                },
+                {
+                    "name": "Bölüm 4: İç Yapı",
+                    "path": "venus/bolum4.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Dünya'ya benzer iç yapı ve boyut. Aktif volkanizma ve tektonik hareketlerle şekillenen dinamik bir gezegen yapısı."
+                },
+                {
+                    "name": "Bölüm 5: Volkanik Aktivite",
+                    "path": "venus/bolum5.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Yüzeyi şekillendiren yaygın volkanizma. Kaldera yapıları, lav akıntıları ve sıcak noktalarla dolu aktif jeolojik yapı."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "venus/bolum6.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "İlk teleskopik gözlemlerden uzay araçlarına uzanan keşif süreci. Magellan ve Venus Express'in önemli buluşları."
+                },
+                {
+                    "name": "Bölüm 7: Atmosferik Dinamikler",
+                    "path": "venus/bolum7.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Süper-rotasyon gösteren atmosfer yapısı. Yüzeyden çok daha hızlı dönen üst atmosfer katmanları ve rüzgar sistemleri."
+                },
+                {
+                    "name": "Bölüm 8: Dünya ile Karşılaştırma",
+                    "path": "venus/bolum8.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Benzer boyut ve kütleye sahip iki gezegen. Farklı evrim süreçleri sonucu oluşan kontrastlı çevresel koşullar."
+                },
+                {
+                    "name": "Bölüm 9: Bilimsel Önemi",
+                    "path": "venus/bolum9.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Sera etkisi ve iklim değişikliği araştırmaları için önemli bir laboratuvar. Gezegen evrimi konusunda kritik dersler."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "venus/bolum10.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Yeni nesil uzay araçları ve keşif planları. Venüs'ün gizemlerini çözmeye yönelik gelecek misyonlar ve hedefler."
+                }
+            ]
+        },
+        {
+            "name": "Dünya Belgeseli",
+            "category": "",
+            "image": "dunya/index.jpeg",
+            "description": "Bilinen tek yaşam gezegeni. Okyanus ve kıtalarıyla, dinamik atmosferi ve manyetik alanıyla benzersiz bir dünya.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "dunya/bolum1.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Güneş sisteminin üçüncü gezegeni ve bilinen tek yaşam dünyası. Okyanusları, atmosferi ve manyetik alanıyla yaşam için ideal koşullar sunar."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "dunya/bolum2.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Beş ana katmandan oluşan atmosfer, yaşam için gerekli gazları barındırır. Ozon tabakası korur, sera gazları sıcaklığı dengeler."
+                },
+                {
+                    "name": "Bölüm 3: Okyanuslar",
+                    "path": "dunya/bolum3.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Yüzeyin %71'ini kaplayan okyanuslar, iklimi düzenler ve yaşama ev sahipliği yapar. Derin vadiler ve sıradağlar barındırır."
+                },
+                {
+                    "name": "Bölüm 4: Kıtalar",
+                    "path": "dunya/bolum4.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Levha tektoniğiyle sürekli hareket eden yedi kıta. Dağlar, vadiler ve volkanlarla şekillenen dinamik bir yüzey yapısı."
+                },
+                {
+                    "name": "Bölüm 5: Manyetik Alan",
+                    "path": "dunya/bolum5.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Sıvı dış çekirdekten kaynaklanan güçlü manyetik alan, zararlı güneş ışınlarından korur ve kutup ışıklarını oluşturur."
+                },
+                {
+                    "name": "Bölüm 6: İç Yapı",
+                    "path": "dunya/bolum6.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Kabuk, manto ve çekirdekten oluşan katmanlı yapı. Dinamik iç süreçler, yüzey şekillerini ve tektonik hareketleri belirler."
+                },
+                {
+                    "name": "Bölüm 7: Ay ve Gelgitler",
+                    "path": "dunya/bolum7.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Ay'ın çekim etkisi okyanuslarda gelgitleri oluşturur. Dünya-Ay sistemi, gezegenin eksen eğikliğini ve dönüşünü dengeler."
+                },
+                {
+                    "name": "Bölüm 8: İklim Sistemi",
+                    "path": "dunya/bolum8.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Atmosfer, okyanuslar ve karalar arasındaki etkileşimlerle şekillenen karmaşık iklim sistemi. Yerel ve küresel hava olayları."
+                },
+                {
+                    "name": "Bölüm 9: Biyosfer",
+                    "path": "dunya/bolum9.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Milyonlarca türe ev sahipliği yapan yaşam katmanı. 4 milyar yıllık evrim sürecinin sonucu olan zengin biyolojik çeşitlilik."
+                },
+                {
+                    "name": "Bölüm 10: Yörünge ve Mevsimler",
+                    "path": "dunya/bolum10.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Güneş etrafındaki yörünge hareketi ve eksen eğikliği mevsimleri oluşturur. 24 saatlik gün-gece döngüsü yaşamı şekillendirir."
+                }
+            ]
+        },
+        {
+            "name": "Doğa",
+            "category": "",
+            "image": "doga/index.png",
+            "description": "",
+            "child": [
+                {
+                    "name": "Alev Sesi",
+                    "path": "doga/Karisik-Sesler-Alev-Ates-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Akarsu Sesi",
+                    "path": "doga/Karisik-Sesler-Akarsu-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Kurbağa Sesleri",
+                    "path": "doga/Karisik-Sesler-Doga-Kurbaga-Sesleri.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Kuş Sesi",
+                    "path": "doga/Karisik-Sesler-Dogal-Kus-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Doğanın Şifalı Sesleri",
+                    "path": "doga/Karisik-Sesler-Doganin-Sifali-Sesleri.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Fırtına ve Yağmur",
+                    "path": "doga/Karisik-Sesler-Firtina-Yagmur-Gevseme-Uyku-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Gök Gürültülü Sağanak",
+                    "path": "doga/Karisik-Sesler-Gok-Gurultulu-Saganak-Yagmur-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Şelale Sesi",
+                    "path": "doga/Karisik-Sesler-Huzur-Veren-Selale-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Su Sesi",
+                    "path": "doga/Karisik-Sesler-Huzur-Veren-Su-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Irmak Sesi",
+                    "path": "doga/Karisik-Sesler-Irmak-Su-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Kar Fırtınası",
+                    "path": "doga/Karisik-Sesler-Kar-Firtinasi-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Karadeniz Ormanı",
+                    "path": "doga/Karisik-Sesler-Karadeniz-Orman-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Ormanda Kuşlar",
+                    "path": "doga/Karisik-Sesler-Ormanda-Kus-Sesleri.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Şömine Sesi",
+                    "path": "doga/Karisik-Sesler-Rahatlatici-Somine-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Sabah Güneş Doğuşu",
+                    "path": "doga/Karisik-Sesler-Sabah-Gunes-Dogusu.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Şiddetli Rüzgar",
+                    "path": "doga/Karisik-Sesler-Siddetli-Ruzgar-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Şömine ve Yağmur",
+                    "path": "doga/Karisik-Sesler-Somine-Atesi-ve-Yagmur-Sesi.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Su ve Kuş Sesleri",
+                    "path": "doga/Karisik-Sesler-Su-Sesi-Ormanda-Kus.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Rahatlatıcı Yağmur",
+                    "path": "doga/Karisik-Sesler-Uyumak-Icin-Rahatlatici-Yagmur.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                },
+                {
+                    "name": "Yağmur Ormanı",
+                    "path": "doga/Karisik-Sesler-Yagmur-Ormani-Kus-Sesleri.mp3",
+                    "image": "doga/index.png",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Ninni",
+            "category": "",
+            "image": "ninni/index.jpg",
+            "description": "",
+            "child": [
+                {
+                    "name": "Alma Attım Yuvarlandı",
+                    "path": "ninni/Mircan-Kaya-Alma-Attim-Yuvarlandi-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Alma Attım Yuvarlandı Ninnisi"
+                },
+                {
+                    "name": "Atem Tutem Men Seni",
+                    "path": "ninni/Mircan-Kaya-Atem-Tutem-Men-Seni-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Atem Tutem Men Seni Ninnisi"
+                },
+                {
+                    "name": "Çamlıbelden Çıktım Yayan",
+                    "path": "ninni/Mircan-Kaya-Camlibelden-Ciktim-Yayan-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Çamlıbelden Çıktım Yayan Ninnisi"
+                },
+                {
+                    "name": "Dandini Dandini Danalı Bebek",
+                    "path": "ninni/Mircan-Kaya-Dandini-Dandini-Danali-Bebek-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Dandini Dandini Danalı Bebek Ninnisi"
+                },
+                {
+                    "name": "Dandini Dandini Dastana",
+                    "path": "ninni/Mircan-Kaya-Dandini-Dandini-Dastana-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Dandini Dandini Dastana Ninnisi"
+                },
+                {
+                    "name": "Eşekli Ninni",
+                    "path": "ninni/Mircan-Kaya-Esekli-Ninni.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Eşekli Ninni"
+                },
+                {
+                    "name": "Fış Fış Kayıkçı",
+                    "path": "ninni/Mircan-Kaya-Fis-Fis-Kayikci-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Fış Fış Kayıkçı Ninnisi"
+                },
+                {
+                    "name": "Uyu Yavrum Yine Sabah Oluyor",
+                    "path": "ninni/Mircan-Kaya-Uyu-Yavrum-Yine-Sabah-Oluyor-Ninnisi.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Uyu Yavrum Yine Sabah Oluyor Ninnisi"
+                },
+                {
+                    "name": "Uyusun da Büyüsün",
+                    "path": "ninni/Mircan-Kaya-Uyusun-da-Buyusun-Ninni.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Uyusun da Büyüsün Ninni"
+                },
+                {
+                    "name": "Uzun Kesintisiz Ninni",
+                    "path": "ninni/Mircan-Kaya-Uzun-Kesintisiz-Ninni.mp3",
+                    "image": "ninni/index.jpg",
+                    "description": "Mircan Kaya - Uzun Kesintisiz Ninni"
+                }
+            ]
+        }
+    ],
+    "explore": [
+        {
+            "name": "Mars Belgeseli",
+            "image": "mars/index.jpeg",
+            "description": "Kızıl Gezegen olarak bilinen dördüncü gezegen. Antik nehir yatakları, dev volkanlar ve kutup buzullarıyla gelecekte yaşam potansiyeli taşıyor.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "mars/bolum1.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Güneş sisteminin dördüncü gezegeni. Kızıl rengi, kutup buzulları ve antik nehir yataklarıyla Mars, gelecekteki insan keşifleri için umut vadediyor."
+                },
+                {
+                    "name": "Bölüm 2: Yüzey Özellikleri",
+                    "path": "mars/bolum2.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Olympus Mons, Valles Marineris ve krater alanları. Dev volkanlar, derin kanyonlar ve antik su izleriyle şekillenen benzersiz yüzey."
+                },
+                {
+                    "name": "Bölüm 3: Su ve Yaşam İzleri",
+                    "path": "mars/bolum3.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Geçmişteki su varlığının kanıtları ve olası yaşam izleri. Kurumuş nehir yatakları, göl havzaları ve mineral birikintileri."
+                },
+                {
+                    "name": "Bölüm 4: Atmosfer ve İklim",
+                    "path": "mars/bolum4.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "İnce karbondioksit atmosferi ve değişken hava koşulları. Mevsimsel değişimler, toz fırtınaları ve kutup bölgelerindeki dinamikler."
+                },
+                {
+                    "name": "Bölüm 5: Kutup Bölgeleri",
+                    "path": "mars/bolum5.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Su buzu ve karbondioksit buzundan oluşan kutup başlıkları. Mevsimsel değişimlerle büyüyen ve küçülen dinamik buz yapıları."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "mars/bolum6.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "İlk teleskopik gözlemlerden modern uzay araçlarına uzanan serüven. Viking'den Perseverance'a uzanan başarılı Mars misyonları."
+                },
+                {
+                    "name": "Bölüm 7: Jeolojik Yapı",
+                    "path": "mars/bolum7.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Mars'ın iç yapısı ve yüzey jeolojisi. InSight'ın deprem ölçümleri ve gezegenin evrimine dair yeni bulgular."
+                },
+                {
+                    "name": "Bölüm 8: Mars'ta Yaşam",
+                    "path": "mars/bolum8.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Gelecekteki insan kolonileri ve yaşam potansiyeli. Kaynakların kullanımı, habitat tasarımları ve karşılaşılabilecek zorluklar."
+                },
+                {
+                    "name": "Bölüm 9: Uydular",
+                    "path": "mars/bolum9.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Phobos ve Deimos: Mars'ın iki küçük uydusu. Asteroit kökenli olduğu düşünülen bu uydular ve gelecekteki keşif planları."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Misyonlar",
+                    "path": "mars/bolum10.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "Mars'ın keşfine yönelik gelecek planları. Örnek getirme misyonları ve insanlı seferlere hazırlık çalışmaları."
+                }
+            ]
+        },
+        {
+            "name": "Neptün Belgeseli",
+            "image": "neptun/index.jpeg",
+            "description": "Güneş sisteminin en uzak gezegeni. Güçlü rüzgarları ve dinamik atmosferiyle tanınan, derin mavi renkli buz devi.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "neptun/bolum1.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Güneş'ten sekizinci ve son gezegen. Matematiksel hesaplamalarla keşfedilen, mavi rengi ve güçlü fırtınalarıyla dikkat çeken buz devi."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer Dinamikleri",
+                    "path": "neptun/bolum2.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Güneş sisteminin en güçlü rüzgarları ve dev fırtınaları. Büyük Koyu Benek ve saatte 1600 km'yi aşan süper hızlı rüzgarlar."
+                },
+                {
+                    "name": "Bölüm 3: Manyetik Alan ve İç Yapı",
+                    "path": "neptun/bolum3.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Dünya'nınkinden 27 kat güçlü, 47 derece eğik manyetik alan. Kayalık çekirdek ve yoğun sıvı tabakadan oluşan iç yapı."
+                },
+                {
+                    "name": "Bölüm 4: Halka Sistemi",
+                    "path": "neptun/bolum4.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Beş ana halkadan oluşan zayıf ve karanlık sistem. Buz parçacıkları ve kozmik tozlardan oluşan, çoban uydularla korunan yapı."
+                },
+                {
+                    "name": "Bölüm 5: Uydular",
+                    "path": "neptun/bolum5.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "On dört uydulu karmaşık sistem. Geriye dönen Triton, eliptik yörüngeli Nereid ve diğer benzersiz özelliklere sahip uydular."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "neptun/bolum6.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Matematiksel hesaplamalarla öngörülen ilk gezegen. Le Verrier ve Adams'ın tahminleri, Galle'nin 1846'daki tarihi gözlemi."
+                },
+                {
+                    "name": "Bölüm 7: Fiziksel Özellikler",
+                    "path": "neptun/bolum7.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Dünya'dan 4 kat büyük, 17 kat ağır buz devi. 16 saatlik gün, -240°C yüzey sıcaklığı ve yüksek iç ısı üretimi."
+                },
+                {
+                    "name": "Bölüm 8: Yörünge ve Hareket",
+                    "path": "neptun/bolum8.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "165 Dünya yılı süren yörünge turu. 4.5 milyar km uzaklık, düzenli yörünge ve Plüton'la 3:2 rezonans ilişkisi."
+                },
+                {
+                    "name": "Bölüm 9: Bilimsel Önemi",
+                    "path": "neptun/bolum9.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Buz devlerinin yapısını ve evrimini anlamamız için önemli laboratuvar. Atmosfer dinamikleri ve manyetik alan teorilerine katkı."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "neptun/bolum10.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Atmosfer, manyetik alan ve uydu sistemine yönelik yeni misyonlar. Triton'a iniş ve sistemin detaylı incelenmesi planları."
+                }
+            ]
+        },
+        {
+            "name": "Venüs Belgeseli",
+            "image": "venus/index.jpeg",
+            "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "venus/bolum1.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Güneş sisteminin ikinci gezegeni. Yoğun atmosferi, yüksek yüzey sıcaklığı ve ters yönde dönüşüyle dikkat çeken gizemli bir dünya."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "venus/bolum2.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Karbondioksit bakımından zengin kalın atmosfer. 460°C'yi bulan yüzey sıcaklığı ve sülfürik asit bulutlarıyla kaplı zorlu ortam."
+                },
+                {
+                    "name": "Bölüm 3: Yüzey Özellikleri",
+                    "path": "venus/bolum3.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Volkanik ovalar, tektonik yapılar ve dağ sıraları. Radar görüntüleriyle keşfedilen yüzey şekilleri ve lav akıntıları."
+                },
+                {
+                    "name": "Bölüm 4: İç Yapı",
+                    "path": "venus/bolum4.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Dünya'ya benzer iç yapı ve boyut. Aktif volkanizma ve tektonik hareketlerle şekillenen dinamik bir gezegen yapısı."
+                },
+                {
+                    "name": "Bölüm 5: Volkanik Aktivite",
+                    "path": "venus/bolum5.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Yüzeyi şekillendiren yaygın volkanizma. Kaldera yapıları, lav akıntıları ve sıcak noktalarla dolu aktif jeolojik yapı."
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "venus/bolum6.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "İlk teleskopik gözlemlerden uzay araçlarına uzanan keşif süreci. Magellan ve Venus Express'in önemli buluşları."
+                },
+                {
+                    "name": "Bölüm 7: Atmosferik Dinamikler",
+                    "path": "venus/bolum7.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Süper-rotasyon gösteren atmosfer yapısı. Yüzeyden çok daha hızlı dönen üst atmosfer katmanları ve rüzgar sistemleri."
+                },
+                {
+                    "name": "Bölüm 8: Dünya ile Karşılaştırma",
+                    "path": "venus/bolum8.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Benzer boyut ve kütleye sahip iki gezegen. Farklı evrim süreçleri sonucu oluşan kontrastlı çevresel koşullar."
+                },
+                {
+                    "name": "Bölüm 9: Bilimsel Önemi",
+                    "path": "venus/bolum9.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Sera etkisi ve iklim değişikliği araştırmaları için önemli bir laboratuvar. Gezegen evrimi konusunda kritik dersler."
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "venus/bolum10.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": "Yeni nesil uzay araçları ve keşif planları. Venüs'ün gizemlerini çözmeye yönelik gelecek misyonlar ve hedefler."
+                }
+            ]
+        }
+    ]
+}
